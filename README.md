@@ -19,42 +19,6 @@ Matrix multiplication interface.
 
 Linear regression result with plotted data.
 
-Installation
-Clone the Repository
-
-bash
-Copy code
-git clone https://github.com/yourusername/Matrix2024.git
-cd Matrix2024
-Create a Virtual Environment (Optional but Recommended)
-
-bash
-Copy code
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-Install Required Dependencies
-
-bash
-Copy code
-pip install -r requirements.txt
-Dependencies Include:
-
-numpy
-scipy
-matplotlib
-numba
-tkinter (usually included with Python)
-threading (built-in module)
-os (built-in module)
-time (built-in module)
-Usage
-Run the application using:
-
-bash
-Copy code
-python matrix_app.py
-This will launch the GUI where you can select from various operations.
-
 Operations Overview
 Matrix Multiplication
 
