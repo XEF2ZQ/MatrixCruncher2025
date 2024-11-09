@@ -19,7 +19,7 @@ set_num_threads(os.cpu_count())  # Use all available CPU cores
 class MatrixApp(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("Matrix2024")
+        self.title("MatrixCruncher2024")
         self.geometry("500x450")
 
         # Main Menu
