@@ -45,15 +45,6 @@ Compute expected value, variance, and standard deviation.
 Visualize the probability density function.
 CPU Benchmarks
 
-Floating-Point Benchmark
-Measure your CPU's GFLOPS (Giga Floating-point Operations Per Second).
-Adjust matrix/vector sizes and run intensive computations.
-Integer Benchmark
-Measure your CPU's GIOPS (Giga Integer Operations Per Second).
-Perform complex integer arithmetic to benchmark performance.
-Requirements
-Python 3.6 or higher
-Recommended: A multi-core CPU for optimal performance in parallel computations.
 Project Structure
 bash
 Copy code
