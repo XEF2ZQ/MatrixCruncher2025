@@ -3,16 +3,14 @@ MatrixCruncher2025
 
 MatrixCruncher2025 is a comprehensive Python application that provides a suite of matrix operations, numerical methods, and CPU benchmarking tools. Built with a user-friendly GUI using Tkinter, it integrates powerful numerical libraries like NumPy, SciPy, Numba, and Matplotlib to offer efficient and accelerated computations.
 
-Features
-Matrix Multiplication: Multiply two matrices with Numba-accelerated performance.
-LU Decomposition: Compute the LU decomposition of a square matrix using parallel computations.
-Linear Regression: Perform linear regression on a set of data points with real-time plotting.
-Lagrange Interpolation Polynomial: Compute and plot the Lagrange interpolation polynomial for given data points.
-Least Squares Solution: Solve overdetermined systems using the least squares method, capable of handling large datasets.
-Probability Density Function: Calculate the expected value, variance, and standard deviation of a probability density function.
-CPU Benchmark (Floating-Point Operations): Benchmark your CPU's floating-point performance using intensive mathematical computations.
-CPU Benchmark (Integer Operations): Benchmark your CPU's integer operation performance with complex integer arithmetic.
-Screenshots
+🚀 Key Features:
+	•	⚡ Blazing-Fast Matrix Multiplication with Numba acceleration
+	•	🔍 LU Decomposition powered by parallel computing
+	•	📈 Real-Time Linear Regression with instant plotting
+	•	🔢 Lagrange Interpolation for precise data fitting
+	•	📊 Powerful Least Squares Solver for large datasets
+	•	🎯 PDF Analysis with expected value, variance & more
+	•	💪 CPU Benchmarks for intense floating-point & integer performance
 Main menu showcasing available operations.
 
 Matrix multiplication interface.
